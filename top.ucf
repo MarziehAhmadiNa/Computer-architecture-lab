@@ -1,0 +1,9 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P55;
+NET "reset" LOC = P1;
+NET "outtop[0]" LOC = P2;
+NET "outtop[1]" LOC = P4;
+NET "outtop[2]" LOC = P5;
+NET "outtop[3]" LOC = P6;
